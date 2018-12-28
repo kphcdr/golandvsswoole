@@ -22,9 +22,18 @@ https://github.com/kphcdr/golandvsswoole
 
 ## 测试结果
 
-![测试结果](图片链接 "")
+![测试结果](https://raw.githubusercontent.com/kphcdr/golandvsswoole/master/result.png)
 
 
+## 说明
+
+* 十次测试中，swoole快的情况有8次
+* swoole快的情况下，Requests per second大概多出200左右
+* golang快的情况下，Requests per second大概多出500左右
+
+## 结论
+
+学JAVA去吧！！！
 
 
 
